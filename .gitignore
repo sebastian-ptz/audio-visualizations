@@ -1,0 +1,110 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# JetBrains Rider
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# npm / Node.js
+node_modules/
+npm-debug.log*
+.npm/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+
+# Blender Backup files
+*.blend[0-9]*
+
+# Blender cache
+*.tmp
+*.bak
+*.autosave
+*.blend@*
+*.blend.cache
+
+# Logs
+*.log
+
+# Audio files (add with -f to override)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.wma
+*.aiff
+*.aif
+*.aifc
+*.alac
+*.opus
+*.ac3
+*.amr
+*.au
+*.mka
+*.ra
