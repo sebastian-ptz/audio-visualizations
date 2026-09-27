@@ -108,3 +108,7 @@ Saved/
 *.au
 *.mka
 *.ra
+
+# Blender and Media Files
+media/
+*.blend1
